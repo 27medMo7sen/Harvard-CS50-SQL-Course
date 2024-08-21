@@ -24,7 +24,7 @@ CS50's Introduction to SQL course teaches the essentials of SQL, the standard la
 - where you find a design file which explain every thing about the project.
 
 ## Certificate
-![Certificate](./CS50 SQL.png)
+![Certificate](CS50 SQL.png)
 
 ## Usage
 
