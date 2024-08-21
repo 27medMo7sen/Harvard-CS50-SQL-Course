@@ -16,15 +16,14 @@ CS50's Introduction to SQL course teaches the essentials of SQL, the standard la
 - Creating and modifying database schemas
 - Working with aggregate functions, subqueries, and joins
 - Designing relational databases with real-world applications
-- 
+
 ## Course Structure
 
 - **7 Problem Sets**: These assignments cover various SQL concepts such as data manipulation, joins, aggregation, and more.
-- **Final Project**: A comprehensive project applying the skills learned throughout the course, and here you can check my (final project)[https://github.com/27medMo7sen/Harvard-CS50-SQL-Course/tree/main/project]
-- where you find a design file which explain every thing about the project.
+- **Final Project**: A comprehensive project applying the skills learned throughout the course. You can check my [Final Project](https://github.com/27medMo7sen/Harvard-CS50-SQL-Course/tree/main/project), where you will find a design file that explains everything about the project.
 
 ## Certificate
-![Certificate](CS50 SQL.png)
+![Certificate](CS50%20SQL.png)
 
 ## Usage
 
